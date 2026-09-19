@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "cotracker3_blender"
+version = "0.1.0"
+name = "CoTracker3 Tracking"
+tagline = "AI point tracking with CoTracker3 for the Movie Clip Editor"
+maintainer = "Pablo Garcia"
+type = "add-on"
+tags = ["Animation", "Tracking"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+network = "Talks to the local CoTracker3 inference service over loopback HTTP"
