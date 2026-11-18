@@ -1,5 +1,7 @@
 # Blender CoTracker3 Tracking
 
+[Demo](https://youtu.be/j6hVbNbe9MM)
+
 Add-on for Blender 4.2+ that replaces the Movie Clip Editor's internal tracker
 (KLT) with [CoTracker3](https://github.com/facebookresearch/co-tracker), Meta
 AI's transformer point tracker. Blender keeps its native track/marker data
